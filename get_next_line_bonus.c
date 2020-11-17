@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: lweeper <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/08 12:35:34 by lweeper           #+#    #+#             */
-/*   Updated: 2020/11/08 12:35:37 by lweeper          ###   ########.fr       */
+/*   Created: 2020/11/11 12:48:34 by lweeper           #+#    #+#             */
+/*   Updated: 2020/11/11 12:48:52 by lweeper          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static char	*ft_strnew(unsigned int size)
 {
